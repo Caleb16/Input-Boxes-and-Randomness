@@ -1,0 +1,11 @@
+c:\users\caleb\documents\visual studio 2013\Projects\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\bin\Debug\Imput-Boxes-and-Randomness.exe.config
+c:\users\caleb\documents\visual studio 2013\Projects\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput_Boxes_and_Randomness.Form1.resources
+c:\users\caleb\documents\visual studio 2013\Projects\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput_Boxes_and_Randomness.Resources.resources
+c:\users\caleb\documents\visual studio 2013\Projects\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput-Boxes-and-Randomness.vbproj.GenerateResource.Cache
+c:\users\caleb\documents\visual studio 2013\Projects\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\bin\Debug\Imput-Boxes-and-Randomness.exe
+c:\users\caleb\documents\visual studio 2013\Projects\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\bin\Debug\Imput-Boxes-and-Randomness.pdb
+c:\users\caleb\documents\visual studio 2013\Projects\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\bin\Debug\Imput-Boxes-and-Randomness.xml
+c:\users\caleb\documents\visual studio 2013\Projects\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput-Boxes-and-Randomness.exe
+c:\users\caleb\documents\visual studio 2013\Projects\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput-Boxes-and-Randomness.xml
+c:\users\caleb\documents\visual studio 2013\Projects\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput-Boxes-and-Randomness.pdb
+C:\Users\Caleb\documents\visual studio 2013\Projects\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput-Boxes-and-Randomness.vbprojResolveAssemblyReference.cache
