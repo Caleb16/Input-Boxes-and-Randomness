@@ -13,3 +13,7 @@ H:\GitHub\Caleb\Input-Boxes-and-Randomness\Imput-Boxes-and-Randomness\Imput-Boxe
 H:\GitHub\Caleb\Input-Boxes-and-Randomness\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput-Boxes-and-Randomness.exe
 H:\GitHub\Caleb\Input-Boxes-and-Randomness\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput-Boxes-and-Randomness.xml
 H:\GitHub\Caleb\Input-Boxes-and-Randomness\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput-Boxes-and-Randomness.pdb
+C:\Users\Caleb\Documents\GitHub\Input-Boxes-and-Randomness\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\bin\Debug\Imput-Boxes-and-Randomness.exe.config
+C:\Users\Caleb\Documents\GitHub\Input-Boxes-and-Randomness\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput-Boxes-and-Randomness.exe
+C:\Users\Caleb\Documents\GitHub\Input-Boxes-and-Randomness\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput-Boxes-and-Randomness.xml
+C:\Users\Caleb\Documents\GitHub\Input-Boxes-and-Randomness\Imput-Boxes-and-Randomness\Imput-Boxes-and-Randomness\obj\Debug\Imput-Boxes-and-Randomness.pdb
