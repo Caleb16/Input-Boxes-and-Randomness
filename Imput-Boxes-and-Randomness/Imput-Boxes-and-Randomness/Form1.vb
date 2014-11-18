@@ -32,22 +32,7 @@
             strRandomQAnswer = InputBox(strRandomQ4, "Random")
         End If
 
-        'IM NOT SURE WHY YOU ARE DOING THIS- THE CODE REPLACES YOUR PREFORMATTED ANSWERS FROM ABOVE WITH A REPLY
-        'THE USER JUST SEES THE SAME QUESTION TWICE, ANSWERS IT TWICE... ATYPICAL BEHAVIOR
-
-        'I RECOMMEND YOU REMOVE THE DECISION STRUCTURE BELOW AND REWORK THE "YOU MAY PASS" CRITERIA TO COMPARE 
-        'strRANDOMQANSWER TO EACH strQUESTION1, 2, 3, 4 USING ORS IN PARENTHESES JUST LIKE BELOW.
-        If intRandomQNumber = 1 Then
-            strQuestion1 = InputBox(strRandomQ1, "Random")
-        ElseIf intRandomQNumber = 2 Then
-            strQuestion2 = InputBox(strRandomQ2, "Random")
-        ElseIf intRandomQNumber = 3 Then
-            strQuestion3 = InputBox(strRandomQ3, "Random")
-        ElseIf intRandomQNumber = 4 Then
-            strQuestion4 = InputBox(strRandomQ4, "Random")
-        End If
-
-        If (strName = strNameAnswer) And (strQuest = strQuestAnswer) And ((strRandomQ1 = strQuestion1) Or (strRandomQ2 = strQuestion2) Or (strRandomQ3 = strQuestion3) Or (strRandomQ4 = strQuestion4)) Then
+        If (strName = strNameAnswer) And (strQuest = strQuestAnswer) And ((strRandomQAnswer = strQuestion1) Or (strRandomQAnswer = strQuestion2) Or (strRandomQAnswer = strQuestion3) Or (strRandomQAnswer = strQuestion4)) Then
             Me.lblFate.Text = "Correct, You May Pass."
         Else
             Me.lblFate.Text = "Incorrect, You Die!!!"
